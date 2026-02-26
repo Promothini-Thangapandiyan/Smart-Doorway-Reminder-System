@@ -4,5 +4,6 @@ https://wokwi.com/projects/445889058917817345
 
 ## 📸 Output
 ### 🔹 Simulation Output
-<img width="1028" height="387" alt="image" src="https://github.com/user-attachments/assets/38446c04-fc3a-48c3-80c1-667aa14307c2" />
+<img width="922" height="830" alt="Screenshot 2026-02-26 121108" src="https://github.com/user-attachments/assets/9e0a2d7c-1cb2-4296-b754-9a9328072d07" />
+
 
